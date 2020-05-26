@@ -1,0 +1,2 @@
+# Asal Sayi Tespit
+ 
